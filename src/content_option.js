@@ -1,18 +1,18 @@
 const logotext = "JOHN";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Rajvardhan Solanki",
+    description: "I’m Rajvardhan Solanki Full stack devloper,currently working in India Indore",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "Rajvardhan Solanki",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
-        third: "I develop mobile apps",
+        third: "I develop full stack websites",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "https://media.licdn.com/dms/image/C4E03AQGhNrOU3wqUHQ/profile-displayphoto-shrink_800_800/0/1645431867703?e=1715212800&v=beta&t=onRIc0m9LVlGqXtkVmuvCdGNcghSOIXRZU1p7JxiZL4",
 };
 
 const dataabout = {
